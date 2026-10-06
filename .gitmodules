@@ -1,0 +1,9 @@
+[submodule "robot"]
+	path = robot
+	url = https://github.com/Hyildirim8/hybot.git
+[submodule "medication-recognition"]
+	path = medication-recognition
+	url = https://github.com/Hyildirim8/ilac_tan-ma.git
+[submodule "face-recognition"]
+	path = face-recognition
+	url = https://github.com/Hyildirim8/yuz_tanima.git
